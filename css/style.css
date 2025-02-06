@@ -143,7 +143,9 @@ font-family: "Raleway", sans-serif;
 
 .team {}
 
-.item-list-team {}
+.item-list-team {
+    background-color: #FFFFFF;
+}
 
 .name-team {
     font-weight: 500;
@@ -151,6 +153,7 @@ font-family: "Raleway", sans-serif;
         line-height: 1.2;
         letter-spacing: 0.02em;
         text-align: center;
+        color: #2e2f42;
 }
 
 .text-team {

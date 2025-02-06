@@ -56,7 +56,9 @@ button {
     color: #404bbf;
 }
 
-.address {}
+.address {
+    font-style: normal;
+}
 
 .nav-href {}
 

@@ -22,6 +22,10 @@ button {
 
 .nav-header {}
 
+.nav-up {
+    color: #2e2f42;
+}
+
 .logo-header {
 font-family: "Raleway", sans-serif;
     font-weight: 700;

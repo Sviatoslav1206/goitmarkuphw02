@@ -23,6 +23,15 @@ button {
 .nav-header {}
 
 .logo-header {
+font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
+}
+.logo {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
         font-size: 18px;
@@ -30,15 +39,6 @@ button {
         letter-spacing: 0.03em;
         text-transform: uppercase;
         color: #2e2f42;
-}
-.logo {
-    font-family: "Raleway", sans-serif;
-         font-weight: 700;
-        font-size: 18px;
-        line-height: 1.17;
-        letter-spacing: 0.03em;
-        text-transform: uppercase;
-        color: #4d5ae5;
 }
 
 .item-list-header {}

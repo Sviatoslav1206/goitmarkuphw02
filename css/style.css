@@ -60,7 +60,9 @@ font-family: "Raleway", sans-serif;
     color: #404bbf;
 }
 
-.address {}
+.address {
+    font-style: normal;
+}
 
 .nav-href {}
 
